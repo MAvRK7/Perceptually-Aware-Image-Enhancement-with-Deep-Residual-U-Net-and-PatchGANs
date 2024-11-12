@@ -4,4 +4,4 @@ Image enhancement is a key aspect of computer vision, aiming to enhance both the
 
 My contribution: Complete development of the proposed model
 
-This work has been submitted to The 3nd International conference on Machine Learning and Data Engineering (ICMLDE 2024)
+This work has been submitted to The Visual Computer Springer Journal and is currently being reviewed.
