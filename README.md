@@ -4,6 +4,5 @@ This paper presents a novel approach for perceptually-aware image enhancement ut
 
 Dataset- DIV2K dataset has been used, sourced from - https://www.kaggle.com/datasets/joe1995/div2k-dataset
 
-My contribution: Complete development of the proposed model
 
 This work has been submitted to The Visual Computer Springer Journal and is currently being reviewed.
