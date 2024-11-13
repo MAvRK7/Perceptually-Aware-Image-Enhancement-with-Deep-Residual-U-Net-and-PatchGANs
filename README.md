@@ -5,7 +5,7 @@ This paper presents a novel approach for perceptually-aware image enhancement ut
 Dataset- DIV2K dataset has been used, sourced from - https://www.kaggle.com/datasets/joe1995/div2k-dataset.
 This link was used to download the dataset on which the model was trained and tested.
 
-In this page, the first file- enhancing_images.ipynb contrains the code for the work trained on 10 epochs.
+In this page, the first file- enhancing_images.ipynb contrains the code for the model trained on 10 epochs.
 
 While the second file - image_proj.ipynb contains the code trained on 25 and 55 epcohs. The results shown are from the model that was trained on 55 epochs.
 
