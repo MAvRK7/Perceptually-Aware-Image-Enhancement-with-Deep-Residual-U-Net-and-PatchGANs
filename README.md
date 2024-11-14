@@ -4,6 +4,7 @@ Project Overview
 This repository contains the code for the research project, "Enhancing Perceptual Quality of Images using Deep Residual U-Net and PatchGAN Discriminator," which applies a deep residual U-Net with PatchGAN for high-quality image enhancement. Key features include:
 
 •Perceptual Loss using a pre-trained VGG16 for improved colour, clarity, and high-level feature retention.
+
 •Generator and Discriminator setup inspired by GANs for structural and perceptual quality enhancement.
 
 Abstract: This paper presents a novel approach for perceptually-aware image enhancement utilizing a deep residual U-Net generator combined with a Patch-based Generative Adversarial Network (PatchGAN) discriminator. Our method incorporates a perceptual loss function based on a pre-trained VGG16 network, ensuring that enhanced images exhibit improved color sharpness, clarity, and retention of critical high-level features. Extensive experiments demonstrate significant improvements in structural similarity, achieving an average Structural Similarity Index (SSIM) of 0.9270 and a Feature Similarity Index (FSIM) of 0.9998. These results indicate both perceptual and structural enhancement, while the model efficiently generates high-quality images with minimal training. Our method consistently outperforms conventional approaches in visual appeal and computational efficiency, making it relevant for real-world applications such as radiology, self-driving vehicles, and low-light photography.
