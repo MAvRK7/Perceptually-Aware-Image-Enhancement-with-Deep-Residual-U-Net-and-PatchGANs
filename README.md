@@ -21,3 +21,4 @@ While the second file - image_proj.ipynb contains the code trained on 25 and 55 
 
 The code can be run by opening any of the files and then opening that using Google colab. 
 
+<img width="482" alt="image" src="https://github.com/user-attachments/assets/292ae452-6d22-4c26-8caa-127cea5a8070" />
