@@ -19,6 +19,6 @@ In this page, the first file- enhancing_images.ipynb contrains the code for the 
 
 While the second file - image_proj.ipynb contains the code trained on 25 and 55 epcohs. The results shown are from the model that was trained on 55 epochs.
 
-The code can be run by opening any of the files and then opening that using Google colab. 
+The code can be run by opening any of the files.
 
 <img width="482" alt="image" src="https://github.com/user-attachments/assets/292ae452-6d22-4c26-8caa-127cea5a8070" />
