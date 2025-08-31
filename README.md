@@ -53,3 +53,18 @@ The code can be run by opening any of the files.
 ## Visualization
 
 <img width="482" alt="image" src="https://github.com/user-attachments/assets/292ae452-6d22-4c26-8caa-127cea5a8070" />
+
+## 🔍 Why This Matters
+
+- Low-light photography – improves clarity and detail retention.
+- Medical imaging – enhances diagnostic quality while preserving structure.
+- Autonomous vehicles – improves perception in adverse conditions.
+
+## Before and After Comparison
+
+<img width="425" height="223" alt="image" src="https://github.com/user-attachments/assets/5d81a08d-a331-4106-aaa0-ad18fe7b6806" />
+
+
+
+https://github.com/user-attachments/assets/56c0e3b5-0f73-4390-987f-45d04ed1c97e
+
