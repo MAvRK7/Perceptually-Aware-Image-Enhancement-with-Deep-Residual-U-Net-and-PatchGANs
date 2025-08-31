@@ -66,5 +66,21 @@ The code can be run by opening any of the files.
 
 <img width="847" height="336" alt="image" src="https://github.com/user-attachments/assets/f10be05d-8748-4a8a-864f-581fd019cd03" />
 
+## 🤝 Contributing
+Contributions are welcome! Please open an issue or submit a pull request.
+
+## 📚 Citation
+If you use this work, please cite:
+
+
+@inproceedings{raghav2025perceptual,
+  title={Enhancing Perceptual Quality of Images using Deep Residual U-Net and PatchGAN Discriminator},
+  author={Raghav, Satvik and Narkedimilli, S. and Ayitapu, P. and Karthikeya, R. and Lalitha, S.},
+  booktitle={3rd Int. Conf. on New Trends in Computing Sciences (ICTCS)},
+  year={2025}
+}
+
+## 📬 Contact
+For queries: satvikraghav007@gmail.com
 
 
