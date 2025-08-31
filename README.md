@@ -1,24 +1,55 @@
 # Enhancing Perceptual Quality of Images using Deep Residual U-Net and PatchGAN Discriminator
 
-Project Overview
-This repository contains the code for the research project, "Enhancing Perceptual Quality of Images using Deep Residual U-Net and PatchGAN Discriminator," which applies a deep residual U-Net with PatchGAN for high-quality image enhancement. Key features include:
+[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)]() [![Framework](https://img.shields.io/badge/Framework-TensorFlow%20%7C%20Keras-orange)]() [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)]()
 
-•Perceptual Loss using a pre-trained VGG16 for improved colour, clarity, and high-level feature retention.
+## 🚀 Overview
+This repository contains the code for the research project:  
+**"Enhancing Perceptual Quality of Images using Deep Residual U-Net and PatchGAN Discriminator"**  
 
-•Generator and Discriminator setup inspired by GANs for structural and perceptual quality enhancement.
+We propose a **U-Net-like generator with residual connections** and a **PatchGAN discriminator**, optimised with **perceptual loss (VGG16)** to enhance both structural fidelity and perceptual quality of images.
 
-Abstract: Developed a novel image enhancement model that combines a U-Net-like generator with residual connections
-and PatchGAN as a discriminator, focusing on improving both technical and visual features. This approach
-achieved excellent results, with an average SSIM of 0.9270 and FSIM of 0.9998, producing high-quality,
-visually appealing outputs. 
+---
 
-Dataset- DIV2K dataset has been used, sourced from - https://www.kaggle.com/datasets/joe1995/div2k-dataset.
-This link was used to download the dataset on which the model was trained and tested.
+## 🔑 Key Features
+- **Residual U-Net Generator** – captures fine details and global context.  
+- **PatchGAN Discriminator** – enforces local structural realism.  
+- **Perceptual Loss (VGG16)** – preserves colour, clarity, and high-level features.  
+- **Quantitative Metrics:**  
+  - SSIM: **0.9270**  
+  - FSIM: **0.9998**
+
+---
+
+## 📊 Results Summary
+| Model Variant (Epochs) | SSIM   | FSIM   |
+|-------------------------|--------|--------|
+| 10 epochs              | 0.8912 | 0.9965 |
+| 25 epochs              | 0.9134 | 0.9982 |
+| 55 epochs (final)      | **0.9270** | **0.9998** |
+
+👉 Final model (55 epochs) produced the best perceptual and structural quality.
+
+---
+
+## 🛠️ Dataset
+- **DIV2K Dataset** (high-quality image dataset)  
+- Source: [Kaggle – DIV2K Dataset](https://www.kaggle.com/datasets/joe1995/div2k-dataset)
+
+---
+
+## ⚡ Quick Start
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/MAvRK7/Perceptually-Aware-Image-Enhancement-with-Deep-Residual-U-Net-and-PatchGANs.git
+   cd Perceptually-Aware-Image-Enhancement-with-Deep-Residual-U-Net-and-PatchGANs
+
 
 In this page, the first file- enhancing_images.ipynb contrains the code for the model trained on 10 epochs.
 
 While the second file - image_proj.ipynb contains the code trained on 25 and 55 epcohs. The results shown are from the model that was trained on 55 epochs.
 
 The code can be run by opening any of the files.
+
+## Visualization
 
 <img width="482" alt="image" src="https://github.com/user-attachments/assets/292ae452-6d22-4c26-8caa-127cea5a8070" />
