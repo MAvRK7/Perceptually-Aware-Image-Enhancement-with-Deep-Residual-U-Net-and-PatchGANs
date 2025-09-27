@@ -29,7 +29,8 @@ We propose a **U-Net-like generator with residual connections** and a **PatchGAN
 
 👉 Final model (55 epochs) produced the best perceptual and structural quality.
 
-<img width="948" height="484" alt="image" src="https://github.com/user-attachments/assets/03ddc6e8-393d-41fd-b209-d7c36e62309d" />
+<img width="941" height="480" alt="image" src="https://github.com/user-attachments/assets/75236f06-0282-4de6-b4ff-33c8a0ad8127" />
+
 
 
 ---
